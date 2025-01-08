@@ -2,7 +2,7 @@
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
-## Experience
+## Jobs
 
 ### GitHub Trainer
 
@@ -14,7 +14,7 @@ Provide world class support to customers on the GitHub platform
 
 ## Skills
 
-Python
+Python, React/NodeJS/MySQL
 
 ### Education
 
